@@ -1,1 +1,18 @@
-["development"]
+[
+  {
+    "id": "8eb21b8a-8e26-4039-8dd5-a2141c8b7026",
+    "name": "development"
+  },
+  {
+    "id": "8eb21b8a-8e26-4039-8dd4-a2141c8b7025",
+    "name": "testing"
+  },
+  {
+    "id": "ba54c372-f57a-47c1-90b1-65ed51da9fb8",
+    "name": "project management"
+  },
+  {
+    "id": "b4f07680-dc05-4360-a4a6-1fe82d3bf03a",
+    "name": "research"
+  }
+]
